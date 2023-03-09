@@ -1,0 +1,45 @@
+img{
+    display:block;
+    margin:auto;
+}
+.presentacion {
+    text-align: center;
+    border-style:solid;
+    border-color:black;
+    border-width: thin;
+    padding: 1%;
+    width: auto;
+}
+h1{
+    text-align: center
+}
+body{
+    background-color: grey
+}
+.nav-links{
+    background-color:rgb(245, 243, 220)
+}
+.nav-links li{
+    display: inline-block;
+    padding: 50px 20px;
+    text-align: center;
+    list-style: none;
+}
+.nav-links li a:hover{
+    color:black;
+}
+.footer .btn button{
+    font-weight: 700;
+    color:antiquewhite;
+    padding: 9px 25px;
+    border-width: thin;
+    border-radius: 50px;
+}
+.boton-js{
+    font-weight: 700;
+    color:grey;
+    padding: 9px 25px;
+    border-width: thin;
+    border-radius: 50px;
+    border-color: black;
+}

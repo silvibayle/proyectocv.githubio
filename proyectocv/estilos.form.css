@@ -1,0 +1,22 @@
+body{
+    background-color:grey
+}
+label, input{
+    width: 100%;
+    max-width: 400px;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    width: 100%;
+    max-width: 50px;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
